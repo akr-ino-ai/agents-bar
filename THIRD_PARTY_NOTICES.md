@@ -1,6 +1,6 @@
 # Third-Party Notices / 第三者ソフトウェアのライセンス表記
 
-Agents Bar `0.1.0-beta.1` には、以下の第三者ソフトウェアおよびデータが含まれています。各ライセンスの条件に従い、著作権表示と許諾表示を掲載します。
+Agents Bar `0.1.0-beta.2` には、以下の第三者ソフトウェアおよびデータが含まれています。各ライセンスの条件に従い、著作権表示と許諾表示を掲載します。
 
 This product includes the third-party software and data listed below. Their copyright and permission notices are reproduced as their licenses require.
 
